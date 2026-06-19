@@ -97,3 +97,13 @@ jupyter notebook main.ipynb
 ## Miembros - Usuario GitHub
 - Juan Lopez - JuanjoLT
 - Felipe Scanda - FelipeScanda
+
+
+
+## Planes
+
+- Matriz de correlacion
+- Aplicar PCA
+- Investigar que modelo es el maś conveniente
+- Pasar a metodología
+- Si hay tiempo, anexar las demás datasets
