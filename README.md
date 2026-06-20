@@ -14,6 +14,8 @@ jugador y evaluar la capacidad de **predecir su ELO**.
 
 ## Objetivos
 
+El objetivo principal de esta invertigación es identificar las variables que más afectan en el rango/ELO de los jugadores, para que de esta manera puedan centrarse en mejorar dichas variables y así lograr subir su rango de manera más rápida y eficiente. Con esto, se proponen los siguientes objetivos específicos:
+
 - Análisis exploratorio de datos (EDA) sobre estadísticas de jugadores y partidas.
 - Identificar los factores que más influyen en el rango/ELO.
 - Construir un modelo predictivo del ELO de un jugador.
