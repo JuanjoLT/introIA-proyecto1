@@ -1,0 +1,14 @@
+name: lol-elo-prediction
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas=3.0
+  - numpy=2.4
+  - matplotlib=3.11
+  - seaborn=0.13
+  - scikit-learn=1.9
+  - jupyter
+  - notebook
+  - pip
